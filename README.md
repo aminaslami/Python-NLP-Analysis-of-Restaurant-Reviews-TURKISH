@@ -7,7 +7,7 @@
 
 NLP, or Natural Language Processing, is a critical subfield of Artificial Intelligence (AI) that bridges the gap between computers and human language. Here's a breakdown of how NLP contributes to AI:
 
-&**Understanding Language:** NLP equips AI with the ability to process and comprehend human language, including text and speech. It employs techniques from linguistics, machine learning, and deep learning to analyze the structure, meaning, and intent behind language.;
+&emsp**Understanding Language:** NLP equips AI with the ability to process and comprehend human language, including text and speech. It employs techniques from linguistics, machine learning, and deep learning to analyze the structure, meaning, and intent behind language.;
 
   **Extracting Meaning:** NLP goes beyond just recognizing words. It allows AI to delve deeper and grasp the sentiment, context, and relationships between words in a sentence or passage. This is crucial for tasks like summarizing text, identifying emotions in reviews, or translating languages accurately.
 
