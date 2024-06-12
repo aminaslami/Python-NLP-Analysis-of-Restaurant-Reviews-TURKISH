@@ -4,6 +4,7 @@
 
 #### Useful Project for AI: https://www.geeksforgeeks.org/machine-learning-projects/amp/
 
+My Master Degree Advisor: 
 #### Ass.Prof.Doc Ferhat UÇAR (Project): https://www.kaggle.com/code/ferhatucar/dl-tutorial-for-beginners-from-dataai
 -----------------------------------------------------------------
 
