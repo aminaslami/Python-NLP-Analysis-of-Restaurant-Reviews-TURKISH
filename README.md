@@ -1,5 +1,5 @@
 ### My Master Degree Advisor: 
-#### Ass.Prof.Doc Ferhat UÇAR (Project): https://www.kaggle.com/code/ferhatucar/dl-tutorial-for-beginners-from-dataai
+#### Ass.Prof.Doc Ferhat UÇAR: https://www.kaggle.com/code/ferhatucar/dl-tutorial-for-beginners-from-dataai
 -----------------------------------------------------------------
 #### Source:                             https://www.kaggle.com/code/cardata/restaurants-data-analysis
 #### Project Edit (Turkish Language) Version:            https://www.kaggle.com/code/aminaslam/python-nlp-analysis-of-restaurant-reviews
