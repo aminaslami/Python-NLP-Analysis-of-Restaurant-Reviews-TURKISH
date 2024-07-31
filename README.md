@@ -1,13 +1,12 @@
+### My Master Degree Advisor: 
+#### Ass.Prof.Doc Ferhat UÇAR (Project): https://www.kaggle.com/code/ferhatucar/dl-tutorial-for-beginners-from-dataai
+-----------------------------------------------------------------
 #### Source:                             https://www.kaggle.com/code/cardata/restaurants-data-analysis
 #### Project Edit (Turkish Language) Version:            https://www.kaggle.com/code/aminaslam/python-nlp-analysis-of-restaurant-reviews
 #### Dataset:                            https://www.kaggle.com/code/cardata/restaurants-data-analysis/input
 
 #### Useful Project for AI: https://www.geeksforgeeks.org/machine-learning-projects/amp/
 ----------------------------------------------------------------
-
-### My Master Degree Advisor: 
-#### Ass.Prof.Doc Ferhat UÇAR (Project): https://www.kaggle.com/code/ferhatucar/dl-tutorial-for-beginners-from-dataai
------------------------------------------------------------------
 
 NLP, or Natural Language Processing, is a critical subfield of Artificial Intelligence (AI) that bridges the gap between computers and human language. Here's a breakdown of how NLP contributes to AI:
 
